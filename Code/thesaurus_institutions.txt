@@ -1,0 +1,495 @@
+<original institution name>; <institution name without accents>
+georgia institute of technology; georgia tech
+texas tech university; texas tech
+colorado university; university of colorado
+arkansas university; university of arkansas
+ghent university hosital; ghent university
+cambridge university; university of cambridge
+microsoft research; microsoft
+facebook research; facebook
+universita di bologna; university of bologna
+unsw; university of new south wales
+universitÃ© CÃ´te d'AzurParis; universite cote dAzur
+Hospital Universitario de La Ribera; La Ribera University Hospital
+universidad de sevilla; sevilla university
+uiversity of mami hspital and cinics; university of miami
+technische universitat darmsta; technical university of darmstadt
+TU Darmstadt; technical university of darmstadt
+technische universitat darmstadt; technical university of darmstadt
+Technische Universitt Darmstadt; technical university of darmstadt
+Technische Universität Darmstadt; technical university of darmstadt
+universitat siegen; university of siegen
+universitat politecnica de valencia; valencia polytechnic university
+universidad politecnica de valencia; valencia polytechnic university
+universite clermont auvergne; clermont auvergne university
+Università Bocconi; Bocconi University
+Universita Bocconi; Bocconi University
+Universit Bocconi; Bocconi University
+University of Medellxadn; University of Medellin
+Universidade de Medellxadn; University of Medellin
+università di catania; university of catania
+universita di catania; university of catania
+universidade de lisboa; university of lisbon
+universidad de cordoba; university of cordoba
+universidade federal de viosa; federal university of vicosa
+Universidade Federal de Viçosa; federal university of vicosa
+Technical University of Delft; delft university of technology
+Institut Polytechnique de Paris; polytechnic institute of paris
+Universitxa0 degli Studi di Trento; university of trento
+Università degli Studi di Trento; university of trento
+Universidad Europea del Atlntico; european atlantic university
+Universidade Federal de Ouro Preto; federal university of ouro preto
+Universidade Federal de Juiz de Fora; juiz de fora federal university
+Universidade Federal de Minas Gerais; federal university of minas gerais
+Centro Hospitalar Universitrio de Lisboa Central; central lisbon university hospital center
+Centro Hospitalar Universitário de Lisboa Central; central lisbon university hospital center
+Universidad Autnoma de Guerrero; autonomous university of guerrero
+Universidad Autónoma de Guerrero; autonomous university of guerrero
+Tecnológico Nacional de México; national technological institute of mexico
+Universidad Politécnica de Tlaxcala; polytechnic university of tlaxcala
+Universidad Autónoma de San Luis Potosí; autonomous university of san luis potosi
+Instituto Universitrio de Lisboa; university institute of lisbon
+Instituto Universitário de Lisboa; university institute of lisbon
+Instituto Politcnico de Tomar; tomar polytechnic institute
+Instituto Politécnico de Tomar; tomar polytechnic institute
+Pontificia Universidad Catlica de Chile; pontifical catholic university of chile
+Pontificia Universidad Católica de Chile; pontifical catholic university of chile
+Universidad de Valparaiso; valparaiso university
+Universitt Bayreuth; university of bayreuth
+Université du Québec à Rimouski; university of quebec at rimouski
+Université Libre de Bruxelles; free university of brussels
+Università degli Studi di Urbino Carlo Bo; university of urbino carlo bo
+Université Laval; laval university
+Universite Laval; laval university
+Universite Laval; laval university
+Universidad de Santiago de Chile; university of santiago chile
+Universitat Erlangen Nurnberg; University of Erlangen–Nuremberg
+Universität Erlangen-Nürnberg; University of Erlangen–Nuremberg
+Institut polytechnique de Paris; Polytechnic Institute of Paris
+Universitat Pompeu Fabra; Pompeu Fabra Univerisity
+Technische Universitt Dresden; Technische Universitt Dresden  
+Technische Universität Dresden; Technische Universitt Dresden
+Bergische Universitt Wuppertal; University of Wuppertal
+Bergische Universität Wuppertal; University of Wuppertal
+Universitt Stuttgart; University of Stuttgart
+Universität Stuttgart; University of Stuttgart
+Universidad Autnoma de Madrid; Autonomous University of Madrid
+Universidad Autónoma de Madrid; Autonomous University of Madrid
+Universität Tübingen; University of Tubingen
+Universitt Tbingen; University of Tubingen
+Universitat Tubingen; University of Tubingen
+Mardin Artuklu Universitesi; Mardin Artuklu University
+Universidad de la Habana; University of Havana
+Universidad de la Havana; University of Havana
+Universidade de Havana; University of Havana
+Bauhaus-Universität Weimar; Bauhaus University Weimar
+Bauhaus-Universitt Weimar; Bauhaus University Weimar
+BauhausUniversitt Weimar; Bauhaus University Weimar
+Universitas Mulawarman; Mulawarman University
+TH Köln University of Applied Sciences; TH Koln University of Applied Sciences
+TH Kln University of Applied Sciences; TH Koln University of Applied Sciences
+Penn State University; Pennsylvania State University
+TU Graz; Graz University of Technology
+Università Cattolica del Sacro Cuore; Catholic University of the Sacred Heart
+Universit Cattolica del Sacro Cuore; Catholic University of the Sacred Heart
+Universita Cattolica del Sacro Cuore; Catholic University of the Sacred Heart
+Universitat de Barcelona; University of Barcelona
+Università di Torino; University of Turin
+Universit di Torino; University of Turin
+Pontificia Universidad Javeriana; Pontifical Javierian University
+Universidad Peruana Cayetano Heredia; University of Peruana Cayetano Heredia
+Universidade Federal de Ciências da Saúde de Porto Alegre; Federal University of Health Sciences of Porto Alegre
+Universidade Federal de Ciencias da Saude de Porto Alegre; Federal University of Health Sciences of Porto Alegre
+Universidade de Brasília; University of Brasilia
+University of Braslia; University of Brasilia
+University of Brasilia; University of Brasilia
+Universiti Sultan Zainal; Abidin Sultan Zainal Abidin University
+Universiti Kuala Lumpur; University of Kuala Lumpur
+Universitas Sumatera Utara; University of North Sumatra
+University of Sumatera Utara; University of North Sumatra
+Marie Cederschiöld Högskola; Marie Cederschiold University
+Universitat Pompeu Fabra; Pompeu Fabra University
+Institut Català de la salut; Catalan Health Institute
+Universidad de las Américas; University of the Americas
+Universidad de las Americas; University of the Americas
+Universidad Mayor; Major university
+Azienda Unità Sanitaria Locale Reggio Emilia; Reggio Emilia Local Health Unit Company
+Azienda Unita Sanitaria Locale Reggio Emilia; Reggio Emilia Local Health Unit Company
+Azienda Unit Sanitaria Locale Reggio Emilia; Reggio Emilia Local Health Unit Company
+Technische Hochschule Nürnberg Georg Simon Ohm; Nuremberg Institute of Technology 
+Technische Hochschule Nrnberg Georg Simon Ohm; Nuremberg Institute of Technology 
+Technische Hochschule Nurnberg Georg Simon Ohm; Nuremberg Institute of Technology 
+Université de Montréal; university of montreal
+Universite de Montreal; university of montreal
+Universit de Montral; university of montreal
+Åbo Akademi University; Abo Akademi University
+bo Akademi University; Abo Akademi University
+L'Institut supérieur de gestion; Institut Superieur de Gestion
+Institut superieur de gestion; Institut Superieur de Gestion
+Pontifícia Universidade Católica do Paraná; Pontifical Catholic University of Parana
+Pontificia Universidade Catolica do Paraná; Pontifical Catholic University of Parana
+Pontifcia Universidade Catlica do Paran; Pontifical Catholic University of Parana
+Universidade Tecnológica Federal do Paraná; Federal University of Technology Parana
+Universidade Tecnolgica Federal do Paran; Federal University of Technology Parana
+Universidade Tecnologica Federal do Parana; Federal University of Technology Parana
+TU Delft; Delft University of Technology
+Universidade do Porto; University of Porto
+Institutele Academiei Române; Institutes of the Romanian Academy
+Institutele Academiei Romne; Institutes of the Romanian Academy
+Institutele Academiei Romane; Institutes of the Romanian Academy
+Università degli Studi di Roma Tor Vergata; Universita degli Studi di Roma Tor Vergata
+Universit degli Studi di Roma Tor Vergata; Universita degli Studi di Roma Tor Vergata
+Universita degli Studi di Roma Tor Vergata; Universita degli Studi di Roma Tor Vergata
+Polytechnique Montréal; Polytechnique Montreal
+Polytechnique Montral; Polytechnique Montreal
+Polytechnique Montreal; Polytechnique Montreal
+Université Laval; Laval University
+Universit Laval; Laval University
+universite Laval; Laval University
+Università degli Studi di Milano Bicocca; University of Milan Bicocca
+Universit degli Studi di Milano Bicocca; University of Milan Bicocca 
+Universita degli Studi di Milano Bicocca; University of Milan Bicocca
+Università degli Studi di Milano; University of Milan
+Universit degli Studi di Milano; University of Milan
+Universita degli Studi di Milano; University of Milan
+Instituto de Sade e Gesto Hospitalar; Institute of Health and Hospital Management
+Politecnico di Milano; Polytechnic University of Milan
+Università Cattolica del Sacro Cuore; Catholic University of the Sacred Heart
+Universit Cattolica del Sacro Cuor; Catholic University of the Sacred Heart
+Universita Cattolica del Sacro Cuore; Catholic University of the Sacred Heart
+Università degli Studi di Bergamo; University of Bergamo
+Universit degli Studi di Bergamo; University of Bergamo
+Universita degli Studi di Bergamo; University of Bergamo
+Universitas Trisakti; Trisakti University
+Federal University of Technology of Paraná; Federal University of Technology of Parana
+Federal University of Technology of Paran; Federal University of Technology of Parana
+Federal University of Technology of Parana; Federal University of Technology of Parana
+Universidade Nova de Lisboa; NOVA University Lisbon
+Université Paris-Saclay; Paris-Saclay University
+Universit Paris-Saclay; Paris-Saclay University
+Universite Paris-Saclay; Paris-Saclay University
+University of Gdańsk; University of Gdansk
+University of Gdask; University of Gdansk
+University of Gdansk; University of Gdansk
+Bakırçay University; Bakircay University
+Bakıray University; Bakirchay University
+Bakircay University; Bakirchay University
+University of Gabès; University of Gabes
+University of Gabs; University of Gabes
+University of Gabes; University of Gabes   
+Universiti Sains Malaysia; University Sains Malaysia
+Universitas Islam Bandung; Bandung Islamic University
+University of Göttingen; University of Gottingen
+University of Gttingen; University of Gottingen
+University of Gottingen; University of Gottingen
+Università degli Studi della Campania; University of Campania
+Universit degli Studi della Campania; University of Campania
+Universita degli Studi della Campania; University of Campania
+Universidad Nacional de Frontera; National Border University
+Universidad Nacional de Jaén; National University of Jaen
+Universidad Nacional de Jan; National University of Jaen
+Universidad Nacional de Jaen; National University of Jaen
+Universidad Nacional de Juliaca; National University of Juliaca
+Johannes Gutenberg-Universität Mainz; Johannes Gutenberg-Universitat Mainz
+Johannes Gutenberg-Universitt Mainz; Johannes Gutenberg-Universitat Mainz
+Johannes Gutenberg-Universitat Mainz; Johannes Gutenberg-Universitat Mainz
+Universitat Autònoma de Barcelona; Autonomous University of Barcelona
+Universitat Autnoma de Barcelona; Autonomous University of Barcelona
+Universitat Autonoma de Barcelona; Autonomous University of Barcelona
+Universidad Autnoma de Madrid; Autonomous University of Madrid
+Universidad Autonoma de Madrid; Autonomous University of Madrid
+Universidad Autónoma de Madrid; Autonomous University of Madrid
+Universidad Nacional de Educacion a Distancia; National Distance Education University
+Universidad Nacional de Educacin a Distancia; National Distance Education University
+Universidad Nacional de Educación a Distancia; National Distance Education University
+Politecnico di Milano; Polytechnic of Milano
+Università Roma Tre; Roma Tre University
+Universit Roma Tre; Roma Tre University
+Universita Roma Tre; Roma Tre University
+State University of New York at Albany; University at Albany
+Universidad Pablo de Olavide; Pablo de Olavide University
+Universidad Católica Del Uruguay; Universidad Catolica Del Uruguay
+Universidad Catlica Del Uruguay; Universidad Catolica Del Uruguay
+Universidad Catolica Del Uruguay; Universidad Catolica Del Uruguay
+UniversityÃ–rebroSweden; Orebro University
+Université de Bourgogne; University of Burgundy
+Universit de Bourgogne; University of Burgundy
+Universite de Bourgogne; University of Burgundy
+West University of Timişoara; West University of Timisoara
+West University of Timioara; West University of Timisoara
+West University of Timisoara; West University of Timisoara
+Federal University of São Carlos; Federal University of Sao Carlos
+Federal University of So Carlos; Federal University of Sao Carlos
+Federal University of Sao Carlos; Federal University of Sao Carlos
+Federal University of Amapá; Federal University of Amapa
+Federal University of Amap; Federal University of Amapa
+Federal University of Amapa; Federal University of Amapa
+Université de Bordeaux; University of Bordeaux
+Universit de Bordeaux; University of Bordeaux
+Universite de Bordeaux; University of Bordeaux
+University of Trás os Montes e Alto Douro; University of Tras os Montes and Alto Douro
+University of Trs os Montes e Alto Douro; University of Tras os Montes and Alto Douro
+University of Tras os Montes e Alto Douro; University of Tras os Montes and Alto Douro
+Escola Superior de Enfermagem de Coimbra; Coimbra Higher Nursing School
+Universidade da Beira Interior; University of Beira Interior
+Universidad Politécnica de Madrid; Polytechnic University of Madrid
+Universidad Politcnica de Madrid; Polytechnic University of Madrid
+Universidad Politecnica de Madrid; Polytechnic University of Madrid
+Sapienza Università di Roma Sapienza; Universita di Roma Sapienza
+Sapienza Universit di Roma  Sapienza; Universita di Roma Sapienza
+università di Roma; university of rome
+universita di Roma; university of rome
+harvard medical school; harvard university
+Università Cattolica del Sacro Cuore; Catholic University of the Sacred Heart
+Universita Cattolica del Sacro Cuore; Catholic University of the Sacred Heart
+University x80x98Giustino Fortunatox80x99; Universita degli Studi Giustino Fortunato
+University of x89vora; University of evora
+Università di Padova; Universita di Padova
+Universit di Padova; Universita di Padova
+Università degli studi di Foggia; University of Foggia
+Universita degli studi di Foggia; University of Foggia
+Universit degli studi di Foggia; University of Foggia
+Universidade do Algarve; University of Algarve
+Universidad de CastillaLa Mancha; University of CastillaLa Mancha
+Universitxa0 degli Studi di Enna Kore; Kore University of Enna
+Universitat Politecnica de Valencia; Polytechnic University of Valencia
+Universiti Teknologi MARA; University Technology Mara
+Universiti Selangor; University of Selangor
+Universiti Malaya; University of Malaya
+Koç University; Koc University
+Koc University; Koc University
+Universitat de València; University of Valencia
+Universitat de Valncia; University of Valencia
+Universitat de Valencia; University of Valencia
+Universitätsklinikum Jena; Jena University Hospital
+Universittsklinikum Jena; Jena University Hospital
+Universitatsklinikum Jena; Jena University Hospital
+Ludwig-Maximilians-Universität München; Ludwig Maximilian University of Munich
+Ludwig-Maximilians-Universitt München; Ludwig Maximilian University of Munich
+Ludwig-Maximilians-Universitat München; Ludwig Maximilian University of Munich
+Universidad Cooperativa de Colombia; Cooperative University of colombia
+Universidad Central de Chile; Central University of Chile
+Bielefeld Universität; Bielefeld University
+Bielefeld Universitat; Bielefeld University
+Bielefeld Universitt; Bielefeld University
+Universidad Diego Portales; Diego Portales University
+Universitas Islam Negeri Antasari; Antasari State Islamic University Banjarmasin
+Mapúa University; Mapua University
+Mapa University; Mapua University
+Mapua University; Mapua University
+Institut Teknologi Sepuluh Nopember; Sepuluh Nopember Institute of Technology
+Heinrich-Heine-University of Düsseldorf; Heinrich Heine University Dusseldorf
+Heinrich-Heine-University of Dusseldorf; Heinrich Heine University Dusseldorf
+Heinrich-Heine-University of Dusseldorf; Heinrich Heine University Dusseldorf
+Universidade de Évora; University of Evora
+Universidade de Evora; University of Evora
+Universitas Negeri Surabaya; State University of Surabaya
+Universidad Católica del Norte; Universidad Catolica del Norte
+Universidad Catlica del Norte; Universidad Catolica del Norte
+Universidad Catolica del Norte; Universidad Catolica del Norte
+Instituto Politécnico de Lisboa; Polytechnic Institute of Lisbon
+Instituto Politcnico de Lisboa; Polytechnic Institute of Lisbon
+Instituto Politecnico de Lisboa; Polytechnic Institute of Lisbon
+Universidad de Antioquia; University of Antioquia
+Universidad Nacional Autónoma de México; National Autonomous University of Mexico
+Universidad Nacional Autnoma de Mxico; National Autonomous University of Mexico
+Universidad Nacional Autonoma de Mexico; National Autonomous University of Mexico
+Università della Svizzera Italiana; Universita della Svizzera Italiana
+Universit della Svizzera Italiana; Universita della Svizzera Italiana
+Universita della Svizzera Italiana; Universita della Svizzera Italiana
+University of Jyväskylä; University of Jyvaskyla
+University of Jyvskyl; University of Jyvaskyla
+University of Jyvaskyla; University of Jyvaskyla
+Universitas Negeri Semarang; Semarang State University
+Universidad Nacional Hermilio Valdizan UNHEVAL; Hermilio Valdizan National University UNHEVAL
+Universidad Continental UC; Continental University UC
+Universiti Brunei Darussalam; University of Brunei Darussalam
+Universit de Lige; University of Liege
+Universiti Malaysia Sabah; University of Malaysia Sabah
+Universidad Nacional de Loja; National University of Loja
+École Nationale d'Ingénieurs de Carthage; National Engineering School of Carthage
+Ecole Nationale d'Ingenieurs de Carthage; National Engineering School of Carthage
+cole Nationale d'Ingnieurs de Carthage; National Engineering School of Carthage
+Universidade Federal do Rio de Janeiro; Federal University of Rio de Janeiro
+Universidad Privada del Norte; Private University of the North
+Université de Nantes; University of Nantes
+Universite de Nantes; University of Nantes
+Universit de Nantes; University of Nantes
+Universidad de la República; Universidad de la Republica
+Universidad de la Republica; Universidad de la Republica
+Universidad de la Repblica; Universidad de la Republica
+University of Münster; University of Munster
+University of Münster; University of Munster
+University of Münster; University of Munster
+Universidad Ricardo Palma; Ricardo Palma University
+Universiti Islam Sultan Sharif Ali; Sultan Sharif Ali Islamic University
+Tecnológico de Monterrey; Tecnologico de Monterrey
+Tecnolgico de Monterrey; Tecnologico de Monterrey
+Tecnologico de Monterrey; Tecnologico de Monterrey
+Universidad Nacional Autonoma de Mexico;    National Autonomous University of Mexico
+Instituto Politécnico Nacional; National Polytechnic Institute
+Instituto Politecnico Nacional; National Polytechnic Institute
+Instituto Politcnico Nacional;  National Polytechnic Institute
+Universidad Autnoma de la Ciudad de Mexico;  Autonomous University of Mexico City
+Universitxa degli studi di Trento;  University of Trento
+Universitxa di Modena e Reggio Emilia;  University of Modena and Reggio Emilia
+Universit degli Studi di Catania;  University of Catania
+Universidad de Alicante;    University of Alicante
+Universidad Politcnica de Cartagena;    Polytechnic University of Cartagena
+HumboldtUniversitt zu Berlin;   Humboldt University of Berlin
+Universidade Católica Portuguesa;   Catholic University of Portugal 
+Universidade Catlica Portuguesa;    Catholic University of Portugal 
+Universidade Catolica Portuguesa;   Catholic University of Portugal 
+Universita LUM Giuseppe Degennaro;  Universita LUM Giuseppe Degennaro
+Universidad eia Envigado;  Envigado University
+Universidad de Medellxadn;  University of Medellxadn
+Universidad de Alicante;    University of Alicante
+Università degli Studi di Firenze;  University of Florence
+Universit degli Studi di Firenze;   University of Florence
+Universita degli Studi di Firenze;  University of Florence
+Università Telematica Internazionale UNINETTUNO;  International Telematic University UNINETTUNO
+Universit Telematica Internazionale UNINETTUNO; International Telematic University UNINETTUNO
+Universita Telematica Internazionale UNINETTUNO; International Telematic University UNINETTUNO
+Universiti Teknologi Brunei;    Brunei University of Technology
+Universidad Peruana Unión Juliaca;  Peruvian University Union Juliaca
+Universidad Nacional Federico Villarreal;   Federico Villarreal National University
+Universidad Central del Ecuador;    Central University of Ecuador
+Universidad Nacional Micaela Bastidas de Apurímac;  Micaela Bastidas National University of Apurimac
+Universidad Nacional Micaela Bastidas de Apurimac;  Micaela Bastidas National University of Apurimac
+Universidad Nacional Micaela Bastidas de Apurmac;  Micaela Bastidas National University of Apurimac
+Universidad Nacional de San Agustín;    National University of San Agustin
+Universidad Nacional de San Agustin;    National University of San Agustin
+Universidad Nacional de San Agustn;    National University of San Agustin
+Universidad Nacional del Altiplano Puno;    National University of the Altiplano Puno
+Universidade Federal de Pernambuco; Federal University of Pernambuco
+universidade de sao paulo; university of sao paulo
+universidade de so paulo; university of sao paulo
+University of So Paulo; Univesity of Sao Paulo
+Universita degli Studi di Milano;    University of Milan
+Universidad de Almerxada;   University of Almeria
+Universidade da Corua;  University of Coruna
+Universitas Gadjah Mada;    Gadjah Mada University
+UFABC-Universidade Federal do ABC;  UFABC-Federal University of ABC
+USCS-Universidade Municipal de Sao Caetano do Sul;  USCS-Municipal University of Sao Caetano do Sul
+Universitas Negeri Surabaya;    State University of Surabaya
+Universitas Mataram;    University of Mataram 
+Universit de Tours; The University of Tours
+Universidad de Valladolid;  University of Valladolid
+Universidade Federal do Rio Grande do Sul;  Federal University of Rio Grande do Sul
+Universidad de Alicante; University of Alicante
+Universiti Pertahanan Nasional Malaysia;    National defence university of Malaysia
+Universiti Sains Malaysia;  Science University of Malaysia
+Universita degli Studi di Brescia; University of Brescia
+Universiti Malaysia Pahang; University of Malaysia Pahang
+Universiti Brunei Darussalam;   University of Brunei Darussalam
+Universidade do Estado do Rio de Janeiro;   State University of Rio de Janeiro
+Universidad de Alicante;    University of Alicante
+Universidade Federal de Santa Catarina; Federal University of Santa CatarinaUniversidad de Chile;  University of Chile
+Pontificia Universidad Católica de Chile;  Pontifical Catholic University of Chile
+Università del Salento; University of Salento
+Universit del Salento; University of Salento
+Universita del Salento; University of Salento
+Université Côte d Azur; Universite Cote d Azur
+Universit Cte d Azur; Universite Cote d Azur
+Universite Cote d Azur; Universite Cote d Azur
+University of Zielona Góra; University of Zielona Gora
+University of Zielona Gra; University of Zielona Gora
+University of Zielona Gora; University of Zielona Gora
+Università degli Studi Guglielmo Marconi; Guglielmo Marconi University
+Universit degli Studi Guglielmo Marconi; Guglielmo Marconi University
+Universita degli Studi Guglielmo Marconi; Guglielmo Marconi University
+Universitas Surabaya; University of Surabaya
+Universitas Sains Al-Qur'an; University of Quranic Sciences
+Universitas Muhammadiyah Magelang; Muhammadiyah University of Magelang
+Universitas Katolik Indonesia Santu Paulus; Catholic University of Indonesia Saint Paul Ruteng
+Université de Picardie Jules Verne; University of Picardie Jules Verne
+Universiti Kebangsaan Malaysia; National University of Malaysia
+Universidad de Las Palmas de Gran Canaria; University of Las Palmas de Gran Canaria
+Universidad de Extremadura; University of Extremadura
+Universidad de Sevilla ;University of Seville
+Universitas Islam Indonesia; Islamic University of Indonesia
+Universiti Putra Malaysia; Putra University Malaysia
+Universidad de Monterrey; University of Monterrey
+Universidad Privada Boliviana; Bolivian Private University
+Universitas Airlangga; Airlangga University
+CETyS Universidad; CETyS University
+Universidad de Sonora; University of Sonora
+Universidad Sämann de Jalisco; Sämann University of Jalisco
+Universiti Teknologi Malaysia; University of Technology Malaysia
+Technische Universität Dortmund; Technical University of Dortmund
+Technische Universitt Dortmund; Technical University of Dortmund
+Technische Universitat Dortmund; Technical University of Dortmund
+Instituto Tecnolgico de Costa Rica; Costa Rican Institute of Technology
+Università San Raffaele Roma; San Raffaele University of Rome
+Università degli Studi di Salerno; University of Salerno
+Universidade Lusófona de Humanidades e Tecnologias; Universidade Lusofona de Humanidades e Tecnologias
+Universidade Lusfona de Humanidades e Tecnologias; Universidade Lusofona de Humanidades e Tecnologias
+Universidade Lusofona de Humanidades e Tecnologias; Universidade Lusofona de Humanidades e Tecnologias
+Pontificia Universidad Catolica del Peru; Pontifical Catholic University of Peru
+Pontificia Universidad Católica del Perú; Pontifical Catholic University of Peru
+Universidad de Monterrey; University of Monterrey
+Universidad Privada Boliviana; Bolivian Private University
+Universita di Siena; University in Siena
+Universidad Nacional de Educación a Distancia; National Distance Education University
+Universidad Nacional de Educacion a Distancia; National Distance Education University
+North Carolina AandT State University; North Carolina Agricultural and Technical State University
+Universidade de Coimbra; University of Coimbra
+Universidade de Coimbra; University of Coimbra
+univ Coimbra; University of Coimbra
+univ of Coimbra; University of Coimbra
+Italian National Research Council; National Research Council of Italy
+Consiglio Nazionale delle Ricerche; National Research Council of Italy
+Italy Consiglio Nazionale delle Ricerche; National Research Council of Italy
+Boğaziçi University; Bogazici University
+Boazii University; Bogazici University
+Bogazici University; Bogazici University
+Nişantaşı University; Nisantasi University
+Nianta University; Nisantasi University
+Nisantasi University; Nisantasi University
+Université Paris 1 Panthéon-Sorbonne; Paris 1 Pantheon-Sorbonne University
+Universit Paris 1 PanthonSorbonne; Paris 1 Pantheon-Sorbonne University
+Universite Paris 1 PantheonSorbonne; Paris 1 Pantheon-Sorbonne University
+Universite Paris 1 Pantheon-Sorbonne; Paris 1 Pantheon-Sorbonne University
+Università degli Studi di Padova; universita di padova
+Universita degli Studi di Padova; universita di padova
+Universit degli Studi di Padova; universita di padova
+Università di Padova; university of padova
+Universit di Padova; universita of padova
+university of padua; universita of padova
+Università degli studi di bologna; university of bologna
+universita degli studi di bologna; university of bologna
+universit degli studi di bologna; university of bologna
+Università di bologna; university of bologna
+universita di bologna; university of bologna
+universit di bologna; university of bologna
+Pontifícia Universidade Católica do Rio de Janeiro; Pontifical Catholic University of Rio de Janeiro
+Pontificia Universidade Catolica do Rio de Janeiro; Pontifical Catholic University of Rio de Janeiro
+Pontifcia Universidade Catlica do Rio de Janeiro; Pontifical Catholic University of Rio de Janeiro
+Pontificia Universidad; Pontifical university
+Federal University of Sao Paulo UNIFESP; federal university of sao paulo
+Federal University of Sao PauloUNIFESP; federal university of sao paulo
+Federal University of So Paulo UNIFESP; federal university of sao paulo
+Federal University of São Paulo UNIFESP; federal university of sao paulo
+Federal University of São Paulo; federal university of sao paulo
+Federal University of So Paulo; federal university of sao paulo
+Universidade Federal de Sao Paulo; federal university of sao paulo
+Universidade Federal de São Paulo; federal university of sao paulo
+Universidade Federal de So Paulo; federal university of sao paulo
+university of de sao paulo; university of sao paulo
+university of de são paulo; university of sao paulo
+university of de so paulo; university of sao paulo
+University of São Paulo; university of sao paulo
+São Paulo University; university of sao paulo
+university of Sao Paulo USP; university of sao paulo
+university of Sao PauloUSP; university of sao paulo
+university of So Paulo USP; university of sao paulo
+university of São Paulo USP; university of sao paulo
+federal university of paraba; federal university of Paraiba
+Federal University of ParabaUFPB; federal university of Paraiba
+Federal University of ParaibaUFPB; federal university of Paraiba
+Federal University of Paraiba UFPB; federal university of Paraiba
+Federal University of Paraaba; federal university of Paraiba
+Universidade Federal da Paraíba; federal university of Paraiba
+Universidade Federal da Paraba; federal university of Paraiba
+university hospitals of geneva; geneva university hospitals
+hallym universitychuncheon sacred heart hospital; hallym university chuncheon sacred heart hospital

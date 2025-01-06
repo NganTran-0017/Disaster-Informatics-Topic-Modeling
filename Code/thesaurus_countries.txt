@@ -1,0 +1,42 @@
+label; replace by
+the netherlands; netherlands
+america; united states
+usa; united states
+united states of america; united states
+uae; united arab emirates
+viet nam; vietnam
+suadi arabia; saudi arabia
+saudia arabia; saudi arabia
+russian federation; russia
+macao; macau
+korea; south korea
+italia; italy
+tunisie; tunisia
+united kigdom; united kingdom
+unted kingdom; united kingdom
+united kingdoms; united kingdom
+kingdom of saudi arabia; saudi arabia
+venezula; venezuela
+israil; israel
+humgary; hungary
+hong kong; hongkong
+germeny; germany
+england; united kingdom
+deutschland; germany
+czechina; czech republic
+czechia; czech republic
+congo; Democratic Republic of the Congo
+portual; portugal
+bosnia; bosnia and herzegovina
+republic of korea; south korea
+slovak republic; Slovakia
+united stated; united states
+Chelyabinsk; Russia
+Puerto Rico; united states
+Portland; united states
+brazilbrazil; Brazil
+Michigan; united states
+illinios; united states
+Kuala Lampur; Malaysia
+ItalyItaly; Italy
+
