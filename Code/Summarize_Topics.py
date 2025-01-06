@@ -396,7 +396,7 @@ def load_llama2():
     # Llama 2 Tokenizer
     model_id = 'meta-llama/Llama-2-13b-chat-hf'
 
-    tokenizer = transformers.AutoTokenizer.from_pretrained(model_id, token='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')
+    tokenizer = transformers.AutoTokenizer.from_pretrained(model_id, token='xxxx')
     # Llama 2 Model
     model = transformers.AutoModelForCausalLM.from_pretrained(
         model_id,
